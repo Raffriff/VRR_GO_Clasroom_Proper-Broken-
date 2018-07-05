@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 42938266, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier: 
+  variables:
+    floatVariables: []
+    intVariables:
+    - useVariable: 1
+      name: Score
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables: []
+    stringVariables: []
+    vector2Variables: []
+    vector3Variables: []
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables:
+    - useVariable: 1
+      name: Q1 2D Image
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q1 3D Model
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q1 No Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q1 See in 3D Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q1 Text Panal
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q1 Yes Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 2D Image
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 3D Model
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 No Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 See in 3D Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 Text Panal
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q2 Yes Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 2D Image
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 3D Model
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 No Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 See in 3D Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 Text Panal
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q3 Yes Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 2D Image
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 3D Model
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 No Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 See in 3D Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 Text Panal
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q4 Yes Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 2D Image
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 3D Model
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 No Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 See in 3D Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 Text Panal
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Q5 Yes Button
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Range button 1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Range button 2
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Range button 3
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Restart Test Box
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Start Range Test
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Start Test Box
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Start Text Box
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: Yes Button box
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    objectVariables: []
+    materialVariables: []
+    textureVariables: []
+    arrayVariables: []
+    enumVariables: []
+    categories:
+    - 
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  events:
+  - Start Test Trigger
+  - Update Text
+  - Range test 1
+  - PHOTON / CONNECTED TO PHOTON
+  - PHOTON / CONNECTION FAIL
+  - PHOTON / CREATED ROOM
+  - PHOTON / CUSTOM AUTHENTICATION FAILED
+  - PHOTON / CUSTOM ROOM PROPERTIES CHANGED
+  - PHOTON / DISCONNECTED FROM PHOTON
+  - PHOTON / FAILED TO CONNECT TO PHOTON
+  - PHOTON / FRIEND LIST UPDATED
+  - PHOTON / JOINED LOBBY
+  - PHOTON / JOINED ROOM
+  - PHOTON / LEFT LOBBY
+  - PHOTON / LEFT ROOM
+  - PHOTON / MASTER CLIENT SWITCHED
+  - PHOTON / MAX CCCU REACHED
+  - PHOTON / PHOTON CREATE ROOM FAILED
+  - PHOTON / PHOTON INSTANTIATE
+  - PHOTON / PHOTON JOIN ROOM FAILED
+  - PHOTON / PHOTON PLAYER CONNECTED
+  - PHOTON / PHOTON PLAYER DISCONNECTED
+  - PHOTON / PHOTON RANDOM JOIN FAILED
+  - PHOTON / PLAYER PROPERTIES CHANGED
+  - PHOTON / RECEIVED ROOM LIST
+  - PHOTON / RECEIVED ROOM LIST UPDATE
+  - 'PHOTON / STATE : CONNECTED'
+  - 'PHOTON / STATE : CONNECTING'
+  - 'PHOTON / STATE : DISCONNECTED'
+  - 'PHOTON / STATE : DISCONNECTING'
+  - 'PHOTON / STATE : INITIALIZING APPLICATION'
+  - test
+  - Range 3 Trigger
+  - Range 2 Trigger
+  - Q2 No button Action
+  - Q2 See in 3D Action
+  - Q2 Yes Buton Action
+  - Q3 No button Action
+  - Q3 See in 3D Action
+  - Q3 Yes Buton Action
+  - Q4 No button Action
+  - Q4 See in 3D Action
+  - Q1 See in 3D Action
+  - Q5 See in 3D Action
+  - Q1 No button Action
+  - Q5 No button Action
+  - Q1 Yes Buton Action
+  - Q5 Yes Buton Action
+  - Switch Scenes
+  - SwitchScene
+  - ChangeSceneToCity
+  - ChangeSceneToMotorway
+  - Score
+  - ChangeSceneToHouse

@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 7d6d5ade39bbd174e905988ab4ca8e98
+timeCreated: 1494179481
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bf327b6fd087a7add75f3d80de98f52e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 6.4705358, y: 4.522993, z: -2.6011076}
+      lookAt: {x: -13.6657505, y: -7.1565275, z: 5.164173}
+      up: {x: -0.444074, y: 0.8794722, z: 0.171251}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#22
+    100002: Component#22 1
+    100004: Component#22 2
+    100006: Component#22 3
+    100008: Component#23
+    100010: Component#23 1
+    100012: Component#23 2
+    100014: Component#23 3
+    100016: Component#23 4
+    100018: Component#23 5
+    100020: Component#24
+    100022: Component#24 1
+    100024: Component#24 2
+    100026: Component#24 3
+    100028: Component#25
+    100030: Component#25 1
+    100032: Component#26
+    100034: Component#26 1
+    100036: Component#27
+    100038: Component#27 1
+    100040: Component#28
+    100042: Component#28 1
+    100044: Component#28 2
+    100046: Component#28 3
+    100048: Component#55
+    100050: Component#55 1
+    100052: Component#55 10
+    100054: Component#55 11
+    100056: Component#55 2
+    100058: Component#55 3
+    100060: Component#55 4
+    100062: Component#55 5
+    100064: Component#55 6
+    100066: Component#55 7
+    100068: Component#55 8
+    100070: Component#55 9
+    100072: Component#56
+    100074: Component#56 1
+    100076: Component#56 10
+    100078: Component#56 11
+    100080: Component#56 2
+    100082: Component#56 3
+    100084: Component#56 4
+    100086: Component#56 5
+    100088: Component#56 6
+    100090: Component#56 7
+    100092: Component#56 8
+    100094: Component#56 9
+    100096: Component#58
+    100098: Component#58 1
+    100100: Component#58 10
+    100102: Component#58 11
+    100104: Component#58 2
+    100106: Component#58 3
+    100108: Component#58 4
+    100110: Component#58 5
+    100112: Component#58 6
+    100114: Component#58 7
+    100116: Component#58 8
+    100118: Component#58 9
+    100120: CPWK_050#1
+    100122: CPWK_053
+    100124: //RootNode
+    100126: Sandbag
+    100128: Sandbag 1
+    100130: Sandbag 2
+    100132: Sandbag 3
+    100134: WK_053
+    400000: Component#22
+    400002: Component#22 1
+    400004: Component#22 2
+    400006: Component#22 3
+    400008: Component#23
+    400010: Component#23 1
+    400012: Component#23 2
+    400014: Component#23 3
+    400016: Component#23 4
+    400018: Component#23 5
+    400020: Component#24
+    400022: Component#24 1
+    400024: Component#24 2
+    400026: Component#24 3
+    400028: Component#25
+    400030: Component#25 1
+    400032: Component#26
+    400034: Component#26 1
+    400036: Component#27
+    400038: Component#27 1
+    400040: Component#28
+    400042: Component#28 1
+    400044: Component#28 2
+    400046: Component#28 3
+    400048: Component#55
+    400050: Component#55 1
+    400052: Component#55 10
+    400054: Component#55 11
+    400056: Component#55 2
+    400058: Component#55 3
+    400060: Component#55 4
+    400062: Component#55 5
+    400064: Component#55 6
+    400066: Component#55 7
+    400068: Component#55 8
+    400070: Component#55 9
+    400072: Component#56
+    400074: Component#56 1
+    400076: Component#56 10
+    400078: Component#56 11
+    400080: Component#56 2
+    400082: Component#56 3
+    400084: Component#56 4
+    400086: Component#56 5
+    400088: Component#56 6
+    400090: Component#56 7
+    400092: Component#56 8
+    400094: Component#56 9
+    400096: Component#58
+    400098: Component#58 1
+    400100: Component#58 10
+    400102: Component#58 11
+    400104: Component#58 2
+    400106: Component#58 3
+    400108: Component#58 4
+    400110: Component#58 5
+    400112: Component#58 6
+    400114: Component#58 7
+    400116: Component#58 8
+    400118: Component#58 9
+    400120: CPWK_050#1
+    400122: CPWK_053
+    400124: //RootNode
+    400126: Sandbag
+    400128: Sandbag 1
+    400130: Sandbag 2
+    400132: Sandbag 3
+    400134: WK_053
+    2300000: Component#22
+    2300002: Component#22 1
+    2300004: Component#22 2
+    2300006: Component#22 3
+    2300008: Component#23
+    2300010: Component#23 1
+    2300012: Component#23 2
+    2300014: Component#23 3
+    2300016: Component#23 4
+    2300018: Component#23 5
+    2300020: Component#24
+    2300022: Component#24 1
+    2300024: Component#24 2
+    2300026: Component#24 3
+    2300028: Component#28
+    2300030: Component#28 1
+    2300032: Component#28 2
+    2300034: Component#28 3
+    2300036: Component#55
+    2300038: Component#55 1
+    2300040: Component#55 10
+    2300042: Component#55 11
+    2300044: Component#55 2
+    2300046: Component#55 3
+    2300048: Component#55 4
+    2300050: Component#55 5
+    2300052: Component#55 6
+    2300054: Component#55 7
+    2300056: Component#55 8
+    2300058: Component#55 9
+    2300060: Component#56
+    2300062: Component#56 1
+    2300064: Component#56 10
+    2300066: Component#56 11
+    2300068: Component#56 2
+    2300070: Component#56 3
+    2300072: Component#56 4
+    2300074: Component#56 5
+    2300076: Component#56 6
+    2300078: Component#56 7
+    2300080: Component#56 8
+    2300082: Component#56 9
+    2300084: Component#58
+    2300086: Component#58 1
+    2300088: Component#58 10
+    2300090: Component#58 11
+    2300092: Component#58 2
+    2300094: Component#58 3
+    2300096: Component#58 4
+    2300098: Component#58 5
+    2300100: Component#58 6
+    2300102: Component#58 7
+    2300104: Component#58 8
+    2300106: Component#58 9
+    2300108: CPWK_050#1
+    2300110: CPWK_053
+    2300112: Sandbag
+    2300114: Sandbag 1
+    2300116: Sandbag 2
+    2300118: Sandbag 3
+    3300000: Component#22
+    3300002: Component#22 1
+    3300004: Component#22 2
+    3300006: Component#22 3
+    3300008: Component#23
+    3300010: Component#23 1
+    3300012: Component#23 2
+    3300014: Component#23 3
+    3300016: Component#23 4
+    3300018: Component#23 5
+    3300020: Component#24
+    3300022: Component#24 1
+    3300024: Component#24 2
+    3300026: Component#24 3
+    3300028: Component#28
+    3300030: Component#28 1
+    3300032: Component#28 2
+    3300034: Component#28 3
+    3300036: Component#55
+    3300038: Component#55 1
+    3300040: Component#55 10
+    3300042: Component#55 11
+    3300044: Component#55 2
+    3300046: Component#55 3
+    3300048: Component#55 4
+    3300050: Component#55 5
+    3300052: Component#55 6
+    3300054: Component#55 7
+    3300056: Component#55 8
+    3300058: Component#55 9
+    3300060: Component#56
+    3300062: Component#56 1
+    3300064: Component#56 10
+    3300066: Component#56 11
+    3300068: Component#56 2
+    3300070: Component#56 3
+    3300072: Component#56 4
+    3300074: Component#56 5
+    3300076: Component#56 6
+    3300078: Component#56 7
+    3300080: Component#56 8
+    3300082: Component#56 9
+    3300084: Component#58
+    3300086: Component#58 1
+    3300088: Component#58 10
+    3300090: Component#58 11
+    3300092: Component#58 2
+    3300094: Component#58 3
+    3300096: Component#58 4
+    3300098: Component#58 5
+    3300100: Component#58 6
+    3300102: Component#58 7
+    3300104: Component#58 8
+    3300106: Component#58 9
+    3300108: CPWK_050#1
+    3300110: CPWK_053
+    3300112: Sandbag
+    3300114: Sandbag 1
+    3300116: Sandbag 2
+    3300118: Sandbag 3
+    4300000: Mesh Sandbag
+    4300002: Mesh Sandbag
+    4300004: Mesh Component#23
+    4300006: Mesh Component#58
+    4300008: Mesh Component#56
+    4300010: Mesh Component#55
+    4300012: Mesh Component#22
+    4300014: Mesh Component#24
+    4300016: Mesh Component#28
+    4300018: Mesh CPWK_053
+    4300020: Mesh CPWK_050#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
